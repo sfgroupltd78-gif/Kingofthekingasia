@@ -1,2 +1,2 @@
-masterKingofthekingasia
+example.com
 
