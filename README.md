@@ -1,2 +1,2 @@
-.air.toml
+example.com
 
