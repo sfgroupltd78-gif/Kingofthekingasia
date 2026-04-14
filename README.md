@@ -1,2 +1,2 @@
-example.com
+https://bitcoincore.org/en/download/
 
